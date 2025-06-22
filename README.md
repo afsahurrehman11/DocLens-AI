@@ -1,8 +1,8 @@
-# DocuLens AI – Retrieval-Augmented Generation (RAG) Agent
+# DocLens AI – Retrieval-Augmented Generation (RAG) Agent
 
 ## Description
 
-**DocuLens AI** is your AI agent powered by Retrieval-Augmented Generation (RAG). Upload any PDF, ask your question, and DocuLens AI dives into your document to deliver precise, lightning-fast answers. No jargon, no fuss—just clear insights for beginners and experts alike, all driven by a robust RAG engine.
+**DocLens AI** is your AI agent powered by Retrieval-Augmented Generation (RAG). Upload any PDF, ask your question, and DocuLens AI dives into your document to deliver precise, lightning-fast answers. No jargon, no fuss—just clear insights for beginners and experts alike, all driven by a robust RAG engine.
 
 ## Features
 
